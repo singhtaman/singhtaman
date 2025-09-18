@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on generic_precession waveforms - spin-spin coupling's distinguishability in gravitational wave signals from binary black holes
+- 🔭 I’m currently working on generic_precession waveforms - spin-spin coupling (nutation)'s distinguishability in gravitational wave signals from binary black holes
 - 🤔 I’m looking for help with/to collaborate on network analysis of a GW signal.
 - 💬 Ask me about my research on tidal disruption events (TDEs), and regular_precession waveforms (GWs)!!
 - 📫 How to reach me: Email at tamanjyot@utdallas.edu or message on linkedin
